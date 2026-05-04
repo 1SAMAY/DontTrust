@@ -5,6 +5,13 @@
 A Windows-style Python desktop app that simulates a security breach in a fake `cmd`-like console.
 It is intentionally cosmetic only. No real hacking, scanning, cracking, or network activity happens.
 
+## Download ZIP
+
+If you want to run this on another Windows PC, download the project as a ZIP, extract it, and then double-click `run.bat`.
+
+- [Download the ZIP archive](https://github.com/1SAMAY/DontTrust/archive/refs/heads/readme-svg-publish.zip)
+- Or open the GitHub repo and use **Code > Download ZIP**
+
 ## What It Does
 
 - Opens as a native Python desktop app on Windows
